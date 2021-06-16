@@ -11,7 +11,7 @@ This repo contains vlaklhbljaskdl/cjna/lsdjnv/as
 
 kj;balsidghbcasdc
 
-## How to run the analysis
+## How to install the required packages
 
 First install the packages with `pip` after navigating to the repo root folder:
 
@@ -29,3 +29,11 @@ python3 setup.py install
 ```
 
 aksjbdlhkbds
+
+## How to run the analysis
+
+From root folder:
+
+```
+pyton3 code/analysis_01.py
+```
