@@ -41,8 +41,9 @@ aksjbdlhkbds
 
 ## How to run the analysis
 
-From root folder:
+Navigate to the `code` folder, then run the script:
 
 ```
-pyton3 code/analysis_01.py
+cd code
+pyton3 analysis_01.py
 ```
