@@ -13,6 +13,15 @@ kj;balsidghbcasdc
 
 ## How to install the required packages
 
+First create and activate a virtual environment:
+
+```
+conda create -n stephan-test python=3.6
+# some stuff will happen....
+conda activate stephan-test
+```
+
+
 First install the packages with `pip` after navigating to the repo root folder:
 
 ```
