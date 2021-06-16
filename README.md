@@ -11,6 +11,14 @@ This repo contains vlaklhbljaskdl/cjna/lsdjnv/as
 
 kj;balsidghbcasdc
 
+## Run in the cloud
+
+Please follow this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jsheunis/handson-test-stuff/HEAD)
+
+---
+
+## Run locally
+
 ## How to install the required packages
 
 First create and activate a virtual environment:
